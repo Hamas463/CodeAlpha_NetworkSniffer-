@@ -37,4 +37,4 @@ This tool is for educational use on networks you own or are explicitly authorise
 to monitor. Unauthorised interception of network traffic is illegal.
 
 ## Author
-Hamas Ahmad Furqan — CodeAlpha Cyber Security Internship
+Hamas Ahmad Furqan 
